@@ -4,3 +4,4 @@
 * add salt
 * and mix well
 * you can enjoy now
+* Adding a bit less salt
